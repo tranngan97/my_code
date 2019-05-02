@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.row{
+	width: 100%;
+}
+header{
+	height: 400px;
+	background-image: url(../img/0.jpg);
+	background-repeat: no-repeat;
+}
+header ul{
+	list-style-type: none;
+}
+header ul li{
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+header a{
+	color: white;
+}
+header a:hover{
+	text-decoration: none;
+	color: white !important;
+	font-weight: 600;
+}
+header .me_nu2{
+	width: 100%;
+	display: none;
+}
+.jump{
+	height: 300px;
+	margin-top:6%;
+}
+.jum{
+	width: 60%;
+	color: white;
+	text-align: center;
+	margin-left: 5%;
+}
+.jum hr{
+	width: 10%;
+	margin-left: 45%;
+	background-color: red;
+}
+.jum .btn{
+	background-color: red;
+	color: white;
+
+}
+.jum p{
+	color: #ccc;
+	font-weight: 600px;
+}
+
+.body{
+	width: 100%;
+}
+.body .jump1{
+	background-color: #eb1010e0;
+	height: 300px;
+	width: 101%;
+}
+.jump1 .btn{
+	background-color: white;
+	color: black;
+
+}
+.body .jump1 hr{
+	margin-left: 45%;
+	background-color: white;
+}
+.body .jum{
+	margin-top:7%;
+}
+.body .ser{
+	width: 50%;
+    margin-left: 15%;
+}
+.icon h1{
+	margin-left: 43%;
+	padding-top: 5%
+}
+.icon hr{
+	width: 6%;
+	background-color: red;
+	margin-left: 70%;
+}
+.icon i{
+	height: 100px;
+	padding-top: 20%;
+	color: #e12626;
+}
+.icon {
+	text-align: center;
+}
+.icon .p1{
+	font-size: 20px;
+
+}
+.icon .p2{
+	font-size: 15px;
+	color: #ccc;
+}
+.img {
+    height: 700px;
+}
+
+.img img{
+	padding: 0;
+	width: 100%;
+	height: 345px;
+	float: left;
+}
+.img2{
+	height:200px;
+	background-color: black;
+	    width: 101%;
+}
+.img2 .jum3{
+	color: white;
+	padding-top: 5%;
+	text-align: center;
+	    padding-left: 3%;
+}
+.img2 .btn{
+	color: black;
+	background-color: white;
+}
+.intouch{
+	height: 300px;
+}
+.intouch h1{
+	padding-top: 5%;
+	padding-left: 22%;
+
+}
+.intouch hr{
+	width: 15%;
+	background-color: red;
+	margin-top: 3%;
+    margin-left: 40%;
+}
+.intouch .infor{
+	text-align: center;
+}
+

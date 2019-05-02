@@ -1,0 +1,338 @@
+@media all and (max-width: 1200px){
+	header{
+		width: 105%;
+
+	}
+	.body {
+		width: 105%;
+	}
+	header .jum h1{
+		font-size: 30px;
+	}
+	.body .jump1 {
+    height: 350px;
+}
+.body .jump1 .jum h1{
+	font-size: 30px;
+}
+.icon h1 {
+    margin-left: 40%;
+}
+.img2{
+	height: 250px;
+}
+.img2 .jum3 {
+    padding-left: 10%;
+    padding-top: 7%;
+}
+.intouch h1 {
+    padding-left: 10%;
+}
+.jump1{
+	width: 102%;
+}
+.img {
+	    width: 102%;
+    height: 700px;
+}
+}
+@media all and (max-width: 998px){
+.row{
+		width: 100%;
+	}
+header .row{
+		height: 50px;
+	}
+	header{
+		width: 107%;
+	}
+
+.body{ width: 107%; }
+
+header .emp{
+	display: none;
+}
+header .menu{
+	background-color: white;
+}
+header .me_nu1{
+	display: none;
+}
+header .me_nu2{
+	display: block;
+	right: 0;
+}
+header .start{
+	padding-left: 10%;
+	    padding-top: 2%;
+}
+header .start a{
+	color: red !important;
+}
+header .me_nu2 .collapse{
+	width: 50%;
+	height: 200px;
+	position: absolute;
+	z-index: 1000;
+	margin-top: 50px;
+}
+header .me_nu2 .p-4{
+	z-index: 1000;
+    height: 150px;
+}
+header ul li{
+	clear: left;
+}
+header .logo {
+	display: none;
+}
+header .me_nu2 .navbar {
+    width: 95%;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+header .me_nu2 .navbarNav {
+    margin-top: 5px;
+    margin-left: 52%;
+}
+header .jump{
+	height: 300px;
+}
+
+.jump1{
+	width: 102%;
+}
+.jum {
+    width: 70%;
+    margin-left: 2%;
+}
+.jum .jum1{
+	font-size: 25px;
+}
+.icon h1 {
+    margin-left: 35%;
+}
+.img{
+	    width: 104%;
+	height: 675px;
+}
+.img1{
+	height: 470px;
+}
+.intouch h1 {
+    padding-left: 20%;
+    font-size: 30px;
+} 
+.img2{
+	width: 103%;
+}
+.img2 .jum3 {
+    padding-left: 5%;
+}
+.intouch .infor {
+        margin-left: -10%;
+}
+.body .ser {
+    margin-left: 20%;
+}
+.icon hr {
+    margin-left: 65%;
+}
+.img {
+    height: 615px;
+}
+.img img { 
+    height: 200px;
+}
+.icon .i_con{
+	width: 103%;
+}
+
+}
+
+
+@media all and (max-width: 768px){
+	.row{
+		width: 100%;
+	}
+	header .row{
+		height: 50px;
+	}
+		header{
+		width: 101%;
+	}
+
+.body{ width: 101%; }
+
+header .emp{
+	display: none;
+}
+header .menu{
+	background-color: white;
+}
+header .logo {
+	display: none;
+}
+header .me_nu1{
+	display: none;
+}
+header .me_nu2{
+	display: block;
+	right: 0;
+}
+header .me_nu2 .navbar {
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    position: absolute;
+	z-index: 1000;
+}
+header .emp{
+	display: none;
+}
+header .start{
+	display: none;
+}
+header .me_nu2 .collapse{
+	width: 50%;
+	height: 200px;
+	position: absolute;
+	z-index: 1000;
+	margin-top: 50px;
+}
+header .me_nu2 .p-4{
+	z-index: 1000;
+    height: 150px;
+}
+header ul li{
+	clear: left;
+}
+header .jump{
+	height: 300px;
+}
+.jum {
+    width: 70%;
+    margin-left: 2%;
+}
+.jum .jum1{
+	font-size: 25px;
+}
+.icon h1 {
+    margin-left: 35%;
+}
+.img2 .jum3 {
+    padding-left: 5%;
+}
+.intouch .infor {
+        margin-left: -10%;
+}
+
+
+}
+
+@media all and (max-width: 568px){
+	header{
+		height: 600px;
+	}
+		header{
+		width: 100%;
+	}
+
+.body{ width: 100%; }
+
+	header .logo {
+	display: none;
+}
+.me_nu2{
+	width: 100%;
+    margin-left: 0;
+    height: 50px;
+    margin-top: 0;
+}
+header .me_nu2 .navbar {
+    width: 104%;
+    margin-top: -2%;
+    margin-left: 0%;
+}
+header .me_nu2 .collapse{
+ margin-left: 55%;
+ margin-top: 10px;
+}
+header .jump {
+    height: 500px;
+    width: 100%;
+}
+
+header .jump .jum {
+    width: 100%;
+    height: 380px;
+    margin-top: 40%;
+    margin-left: 15%;
+    margin-left: 5%;
+}
+.body .jump1{
+width: 105%;
+    height: 500px;
+}
+.body .jum {
+    width: 85%;
+    margin-left: 12%;
+}
+.body .icon{
+	    width: 105%;
+}
+.body .ser{
+	width: 100%;
+	margin-left: 0%;
+}
+.icon h1 {
+    margin-left: 8%;
+    font-size: 30px;
+}
+.icon hr {
+    margin-left: 45%;
+    width: 15%;
+}
+.i_con div{
+	width: 100%;
+    margin-left: 10%;
+}
+.img{
+	    width: 110%;
+	        height: 1205px;
+}
+.img2{
+	 width: 105%;
+}
+.img2 .jum3 {
+    padding-left: 9%;
+
+}
+.jum3 p{
+	    font-size: 25px;
+}
+.intouch{
+	    width: 105%;
+}
+.intouch h1 {
+    padding-left: 23%;
+    }
+    .intouch hr{
+    margin-left: 55%;
+    }
+.intouch p{
+	text-align: center;
+	margin-left: 8%;
+}
+.intouch .infor {
+    margin-left: -10%;
+    width: 105%;
+}
+.infor i{
+	margin-left: 20%;
+}
+.intouch .infor p{
+	margin-left: 25%;
+}
+}
+

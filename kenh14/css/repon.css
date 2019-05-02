@@ -1,0 +1,218 @@
+@media all and (max-width: 1024){
+	header .menu{
+		width: 102%;
+	}
+	header .menu ul li {
+		width: 25%;
+	}
+	header .logo{
+		width: 102%;
+	}
+	header .header_menu{
+		width: 102%;
+	}
+	.body .grey{
+		width: 102%;
+	}
+	header .header_menu ul li {
+		font-size: 13px;
+	}
+	header .menu .fa-search {
+		margin-left: 50%;
+	}
+}
+@media all and (max-width: 568px){
+	.body h5{
+		font-size: 17px;
+	}
+	.card-img {
+		width: 90%;
+	}
+	#back{
+		width: 30px;
+		height:30px;
+		font-size: 20px;
+		margin-left: 90%;
+	}
+	.mb-3{
+		margin-left: 3%;
+	}
+	header .menu, .logo, input, .fa-search, .header_menu {
+		display: none;
+	}
+	header .navbar{
+		display: block;
+	}
+	.body .grey, .hotest, .lastest{
+		width: 104%;
+	}
+	.body .hotest_new{
+		margin-left: 3%;
+	}
+	.body .hotest .big_title{
+		font-size: 20px;
+	}
+	.body .hotest .hostest_slide {
+		width: 90%;
+		margin-left: 8%;
+	}
+	.body .hotest .hostest_slide .card-title {
+		font-size: 12px;
+	}
+	.body .hr{
+		margin-left: 3%;
+	}
+	.body .video .video-icon {
+		display: none;
+	}
+	.body .mb-3 img {
+		margin-left: 6%;
+	}
+	.body .trend .img img {
+		height: 78%;
+		margin-top: 0%;
+		margin-left: 5%;
+	}
+	.body .new2{
+		margin-left: 3%;
+	}
+	.body .new2 img{
+		height: 60%;
+		margin-top: 8%;
+		margin-left: -5%;
+	}
+	.body .new2 .card-body {
+		width: 50%;
+		position: absolute;
+		margin-left: 55%;
+		font-size: 15px;
+		margin-top: -90%;
+	}
+	.body .new2 .more{
+		width: 65%;
+		margin-top: -17%;
+	}
+	.body .noti {
+		margin-left: 5%;
+	}
+	.body .noti h5 {
+		font-size: 15px;
+	}
+	.body .mb-3{
+		height: 30%;
+	}
+	.body .brief_new{
+		border: none;
+		margin-left: 7%;
+	}
+	.body .brief_new .brief1 {
+		border: none;
+	}
+	.body .brief_new .brief_new_ele2 .card-img-overlay h4 {
+		font-size: 15px;
+	}
+	.body .brief3 .brief_new_ele2 {
+		border: none;
+	}
+	footer .footer_menu{
+		display: none;
+	}
+	footer .about{
+		display: none;
+	}
+	footer .moblie_footer{
+		background-color: black;
+		color: white;
+		display: block;
+	}
+	footer .moblie_footer .respon{
+		text-align: center;
+	}
+	footer .moblie_footer .y_kien{
+		font-size: 13px;
+	}
+	footer .moblie_footer .y_kien .fa{
+		color: orange;
+	}
+	footer .moblie_footer .y_kien p{
+		margin-left: 12%;
+		margin-top: -12%;
+	}
+	footer .moblie_footer .y_kien .quest{
+		font-size: 10px;
+	}
+	footer .moblie_footer .y_kien .mail p{
+		margin-top: -15%;
+	}
+}
+@media all and (max-width: 768px){
+	header .menu{
+		width: 102%;
+	}
+	header .menu ul li {
+		width: 25%;
+	}
+	header .logo{
+		width: 102%;
+	}
+	header .header_menu{
+		width: 102%;
+	}
+	.body .grey{
+		width: 102%;
+	}
+	header .logo .logo_ p {
+		font-size: 25px;
+	}
+	header .logo .logo_ small {
+		font-size: 75%;
+	}
+	header .logo .hot {
+		width: 120%;
+		height: 55%;
+		font-size: 11px;
+		margin-top: 13%;
+	}
+	header .header_menu ul li {
+		font-size: 9px;
+	}
+	.add{
+		display: none;
+	}
+	#back{
+		margin-left: 90%;
+	}
+	footer .footer_menu{
+		width: 102%;
+	}
+	footer .footer_menu li {
+		font-size: 8px;
+	}
+	footer .bandoc h4{
+		font-size: 17px;
+	}
+	footer .about .bandoc .quest {
+		width: 105%;
+	}
+	footer .about .fb .page {
+		margin-top: -50%;
+	}
+	footer .about .fb .fa-check{
+		margin-top: -15%;
+    margin-left: 50%;
+	}
+	footer .about .fb .button{
+		    margin-top: -20%;
+    width: 90%;
+    margin-left: 0%;
+	}
+	footer .about .fb .like {
+		width: 50%;
+	}
+	footer .about .fb .mes {
+		width: 48%;
+		margin-left: 45%;
+    margin-top: -10%;
+	}
+}
+
