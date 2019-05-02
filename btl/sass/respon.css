@@ -1,7 +1,4 @@
 @media all and (max-width: 768px){
-	.quynhXinhGai{
-		display: none;
-	}
 	header .header_menu .menu{
 		font-size: 10px;
 		margin-left:8%;
@@ -72,6 +69,138 @@
 	}.body .count_ .count_bg{
 		width: 102%;
 	}
+	footer .logo {
+    width: 60%;
+}
+
+}
+@media all and (max-width: 568px){
+	.quynhXinhGai{
+		display: none;
+	}
+	header .header_menu{
+		display: none;
+	}
+	header .me_nu2{
+		display: block;
+	}
+	header .header_bg {
+    width: 105%;
+}
+header .header_slide {
+    width: 90%;
+    height: 60%;
+    margin-left: 5%;
+    }
+    header .header_slide h1{
+   font-size: 20px;
+    }
+    header .header_slide .header_button{
+    	font-size: 12px;
+    }
+    header .header_slide .carousel-indicators {
+    bottom: -45px;
+}
+.body .detail1 img{
+	width: 100%;
+}
+.body .detail .detail1 .ti_le .fa {
+    margin-top: -40%;
+    margin-left: 36%;
+}
+.body .detail .detail1 .ti_le a {
+    margin-top: -30%;
+    margin-left: 15%;
+}
+.body .detail .detail1 .fa {
+    margin-left: 40%;
+    margin-top: -40%;
+}
+.body .detail .detail1 a {
+    margin-left: 14%;
+    margin-top: -32%;
+    font-size: 12px;
+}
+.body h3{
+	font-size: 15px;
+}
+.body p{
+	font-size: 10px;
+}
+.body .detail1 {
+	width: 99%;
+    margin-left: 0px;
+}
+.body .detail1 .active button {
+    width: 27%;
+    height: 30px;
+    font-size: 10px;
+}
+.body .detail_2 {
+    margin-top: 149%;
+    margin-left: 0%;
+}
+.body button{
+	width: 27%;
+    height: 30px;
+    font-size: 10px;
+}
+.body .about{
+	margin-left: 0%;
+}
+.body .about .img img {
+    margin-left: 0%;
+    width: 100%;
+}
+.body .about_ .ab_ic img{
+	width: 100%;
+}
+.body .sk{
+	margin-left: 5%;
+}
+.sk .sk_ill img{
+	width: 100%;
+}
+.skill .sk_ill #sk1 {
+    margin-left: -5%;
+    margin-top: -23%;
+}
+.body .service, .se_pe{
+	margin-left: 0%;
+}
+.body .se_pe .people{
+	margin-top: 5%;
+	margin-left:5%;
+}
+.body .project{
+	margin-left: 0%;
+}
+.project button {
+    width: 22%;
+    height: 30px;
+    font-size: 0px;
+    font-size: 7px;
+}
+.body #contact{
+	margin-left: 0%;
+}
+.body #contact .con_in h5{
+	margin-left: 20%;
+    margin-top: -15%;
+}
+.body #contact .con_in p{
+	margin-left: 20%;
+    margin-top: -8%;
+}
+footer .foot{
+	margin-left: 0%;
+}
+
+
+
 
 
 }
+
+
+
