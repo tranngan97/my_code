@@ -1,0 +1,77 @@
+@media all and (max-width: 768px){
+	.quynhXinhGai{
+		display: none;
+	}
+	header .header_menu .menu{
+		font-size: 10px;
+		margin-left:8%;
+	}
+	header .header_bg {
+    width: 102%;
+}
+	header .header_slide .header_button {
+		width: 25%;
+	}
+	.body .detail .detail1 .tile_{
+	margin-left:50%;
+	}
+	.body .detail .detail1 .tile1{
+	margin-top:30%;
+	margin-left: 0%;
+	}
+	.body .detail .detail1 .fa{
+		margin-left: -40%;
+		margin-top: 15%;
+	}
+	.body .detail .detail1 .active img{
+		margin-top: 5%;
+    height: 60%;
+    width: 60%;
+    margin-left: 30%;
+	}
+	.body .detail .detail1 a{
+		margin-left: -50%;
+		margin-top: 25%;
+	}
+	.body .detail .detail1 .ti_le .fa{
+	margin-top: 15%;
+    margin-left: -40%;
+	}
+	.body .detail .detail1 .ti_le a{
+	margin-top: 25%;
+    margin-left: -48%;
+	}
+	.body .detail1 .tile:hover .h_bg{
+		margin-top: -50%;
+	}
+	.body .detail .detail1 .tile_1{
+	margin-top:30%;
+	margin-left: 50%;
+	}
+	.body .detail .detail1 .active{
+		margin-top:30%;
+	}
+	.body .detail .detail1 .de_1{
+		margin-top:-20%;
+	}
+	.body .detail_2{
+		margin-top: 120%;
+	}
+	.body .about_ .ab_ic .h_bg{
+		margin-top: -61%;
+	}
+	.body .about .img img{
+		margin-left: 30%;
+	}
+	.skill .sk_ill #sk1{
+		margin-left: -80%;
+		margin-top: 0%;
+	}
+	.body .count_{
+		width: 102%;
+	}.body .count_ .count_bg{
+		width: 102%;
+	}
+
+
+}

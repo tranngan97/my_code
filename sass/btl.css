@@ -1,0 +1,351 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+.container-fluid {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0; }
+
+.row {
+  width: 101%; }
+
+.progr-bar {
+  background-color: orange; }
+
+.carousel li {
+  width: 10px;
+  height: 10px;
+  background-color: orange; }
+
+.h_bg {
+  display: none; }
+
+.body .progress {
+  height: 10px;
+  margin-bottom: 5%; }
+
+header {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-image: url("../img/homebg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+  header .me_nu2 {
+    display: none; }
+  header img {
+    width: 100%; }
+  header .header_bg {
+    width: 101%;
+    height: 100%;
+    background-color: #454343;
+    opacity: 0.5;
+    position: absolute; }
+  header .header_menu {
+    width: 101%;
+    height: 100%; }
+    header .header_menu ul {
+      list-style-type: none; }
+      header .header_menu ul a {
+        color: white;
+        font-weight: 600; }
+        header .header_menu ul a:hover {
+          color: orange;
+          text-decoration: none; }
+      header .header_menu ul li {
+        width: 16%;
+        float: left;
+        text-align: center; }
+    header .header_menu .fa {
+      color: white; }
+    header .header_menu #back {
+      display: none; }
+    header .header_menu .menu {
+      position: fixed;
+      z-index: 1010;
+      margin-left: 12%;
+      margin-top: 5%; }
+  header .logo p {
+    color: orange;
+    font-weight: 650;
+    border: 2px solid #ccc;
+    text-align: center; }
+  header .header_slide {
+    width: 80%;
+    height: 100%;
+    margin-top: 17%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+    color: white; }
+    header .header_slide .carousel-indicators {
+      bottom: -60px; }
+    header .header_slide .header_button {
+      background-color: orange;
+      color: white;
+      width: 15%;
+      font-size: 20px; }
+
+.body .detail1 {
+  position: absolute; }
+  .body .detail1 .detail_1 {
+    display: none; }
+    .body .detail1 .detail_1 img {
+      width: 100%; }
+  .body .detail1 .active {
+    display: block;
+    margin-top: 5%; }
+    .body .detail1 .active .progress {
+      height: 10px; }
+    .body .detail1 .active button {
+      background-color: orange;
+      color: white;
+      width: 15%;
+      height: 35px; }
+  .body .detail1 .tile {
+    margin-left: 0%; }
+    .body .detail1 .tile:hover .h_bg {
+      display: block;
+      z-index: 1010;
+      position: absolute;
+      margin-top: -65%; }
+  .body .detail1 .tile_ {
+    margin-left: 25%; }
+  .body .detail1 .tile1 {
+    margin-left: 50%; }
+  .body .detail1 .tile_1 {
+    margin-left: 75%; }
+  .body .detail1 .fa {
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 45%;
+    z-index: 1010; }
+  .body .detail1 a {
+    position: absolute;
+    z-index: 1010;
+    margin-top: -40%;
+    margin-left: 30%;
+    color: #ccc;
+    font-weight: 600; }
+    .body .detail1 a:hover {
+      text-decoration: none;
+      color: white; }
+
+.body .detail_2 {
+  margin-top: 50%; }
+  .body .detail_2 .detail2 {
+    margin-top: 10%; }
+    .body .detail_2 .detail2 button {
+      color: white;
+      width: 25%; }
+
+.body .intro {
+  margin-top: 5%; }
+  .body .intro img {
+    width: 100%; }
+  .body .intro .fa, .body .intro p {
+    position: absolute;
+    z-index: 1010;
+    color: white; }
+  .body .intro .fa {
+    margin-top: -15%;
+    margin-left: 47%; }
+  .body .intro p {
+    margin-top: -18%;
+    margin-left: 45%; }
+
+.body .about {
+  margin-top: 5%; }
+  .body .about .progress {
+    width: 50%; }
+  .body .about .fa {
+    position: absolute;
+    z-index: 1020;
+    padding-left: 15%;
+    padding-top: 15%; }
+
+.body .about_ {
+  margin-top: 5%; }
+  .body .about_ .ab_de {
+    margin-left: -5%;
+    margin-top: 2%; }
+
+.body .ab_ic:hover .h_bg {
+  display: block;
+  position: absolute;
+  z-index: 1010;
+  margin-top: -56%; }
+
+.body .ab_ic:hover .fa {
+  color: white; }
+
+.body .skill {
+  position: absolute; }
+  .body .skill .sk_detail {
+    display: none; }
+  .body .skill .active {
+    display: block; }
+  .body .skill #sk1 {
+    width: 80%;
+    height: 70%;
+    background-color: transparent;
+    margin-left: 5%;
+    border: none;
+    position: absolute;
+    z-index: 1010;
+    margin-top: -30%; }
+  .body .skill .sk1 {
+    margin-left: 35%; }
+  .body .skill .sk2 {
+    margin-left: 70%; }
+
+.body .check {
+  margin-top: 30%; }
+  .body .check p {
+    margin-left: 10%;
+    margin-top: -10%; }
+
+.body .pro {
+  margin-left: 5%; }
+  .body .pro p {
+    position: absolute;
+    margin-left: 85%;
+    margin-top: -13%; }
+
+.body .count_ {
+  background-image: url(../img/counterbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+  .body .count_ .count_bg {
+    width: 101%;
+    height: 100%;
+    background-color: #454343;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 1010;
+    margin-top: 0%; }
+  .body .count_ .count {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    text-align: center;
+    z-index: 1011; }
+    .body .count_ .count .fa {
+      color: orange; }
+
+.body .service {
+  margin-top: 10%; }
+  .body .service .progress {
+    width: 50%; }
+  .body .service .service1 {
+    margin-top: 5%; }
+    .body .service .service1 .fa {
+      position: absolute;
+      z-index: 1020;
+      padding-top: 6%;
+      padding-left: 6%; }
+    .body .service .service1:hover .h_bg {
+      display: block;
+      position: absolute;
+      z-index: 1020;
+      margin-top: -18%; }
+    .body .service .service1:hover .fa {
+      color: white;
+      z-index: 1025; }
+    .body .service .service1 h6 {
+      position: absolute;
+      z-index: 1020;
+      padding-left: 25%;
+      margin-top: -18%; }
+    .body .service .service1 p {
+      position: absolute;
+      z-index: 1020;
+      padding-left: 25%;
+      margin-top: -11%; }
+
+.body .se_pe {
+  margin-top: 5%; }
+  .body .se_pe .progress {
+    width: 50%; }
+  .body .se_pe .people img {
+    width: 90%;
+    margin-left: 5%; }
+  .body .se_pe .people:hover .peo_de {
+    display: block; }
+  .body .se_pe .peo_de {
+    width: 60%;
+    height: 50%;
+    position: absolute;
+    z-index: 1020;
+    margin-top: -75%;
+    margin-left: 15%;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10%;
+    opacity: 0.7;
+    border: 1px solid white;
+    display: none; }
+    .body .se_pe .peo_de .fa:hover {
+      color: black; }
+
+.body .project {
+  margin-top: 10%; }
+  .body .project .img img {
+    width: 100%; }
+  .body .project .img .img_ {
+    margin-top: 5%; }
+
+.body #contact {
+  margin-top: 10%; }
+  .body #contact .con_in {
+    margin-top: 5%; }
+    .body #contact .con_in .fa, .body #contact .con_in h5, .body #contact .con_in p {
+      position: absolute;
+      z-index: 1020; }
+    .body #contact .con_in .fa {
+      margin-left: -10%;
+      margin-top: 4%; }
+    .body #contact .con_in h5 {
+      margin-left: 15%;
+      margin-top: -13%; }
+    .body #contact .con_in p {
+      margin-left: 15%;
+      margin-top: -5%; }
+  .body #contact input {
+    width: 40%;
+    margin-top: 2%;
+    height: 50px; }
+  .body #contact textarea {
+    width: 80%;
+    height: 100px;
+    margin-top: 5%; }
+
+footer {
+  margin-top: 10%;
+  background-color: #383838;
+  color: white; }
+  footer .logo {
+    width: 30%;
+    text-align: center;
+    color: orange;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    margin-top: 3%; }
+  footer a {
+    color: white; }
+    footer a:hover {
+      color: orange;
+      text-decoration: none; }
+  footer .ter {
+    background-color: black;
+    text-align: center; }
+    footer .ter .fa:hover {
+      color: orange; }
