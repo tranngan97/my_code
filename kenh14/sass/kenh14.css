@@ -51,8 +51,18 @@ header .menu {
   header .menu .fa-search {
     color: white;
     position: absolute;
-    margin-left: 55%;
-    z-index: 100; }
+    margin-left: -50%;
+    z-index: 100; 
+    margin-top: -55%;
+}
+  header .menu #search{
+      width: 20px;
+      position: absolute;
+      height: 20px;
+      border-color: transparent;
+      margin-left: 60%;
+      background-color: transparent
+    }
 
 header .logo {
   width: 101%;
@@ -91,6 +101,7 @@ header .header_menu {
     header .header_menu ul button {
       border: 1px solid transparent;
       background-color: transparent; }
+
 header .navbar{ 
   background-color: orange;
   color: white;

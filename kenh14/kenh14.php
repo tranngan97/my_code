@@ -19,6 +19,13 @@
 </head>
 <body>
 	<div class="container-fluid">
+		<?php
+	if (isset($_POST["click"]))
+	{
+     $title= $_GET["search"];
+     header("Location: http://google.com");
+	};
+	?>
 		<header>
 			<div class="row menu">
 				<div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 col-0"></div>
@@ -34,7 +41,7 @@
 					<form method="post">
 					<input type="search" name="search" value="" placeholder="Tìm kiếm....">
 					<button name="click" id="search">
-						<a href=https://www.google.com span class="fa fa-search"></a>
+						<i class="fa fa-search"></i>
 					</button>	
 					</form>
 				</div>	
